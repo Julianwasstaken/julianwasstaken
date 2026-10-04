@@ -5,7 +5,7 @@
 
 
 ## about me 
-Hey there! I’m a 16-year-old developer passionate about building secure and scalable applications. I work with Python and JavaScript, design modern interfaces with HTML5 and CSS3, and develop backend solutions using Node.js, Discord.js, MongoDB, and Cloudflare. I’m always looking to learn more and expand my skills in web development and cybersecurity.
+Hey there! I’m a 17-year-old developer passionate about building secure and scalable applications. I work with Python and JavaScript, design modern interfaces with HTML5 and CSS3, and develop backend solutions using Node.js, Discord.js, MongoDB, and Cloudflare. I’m always looking to learn more and expand my skills in web development and cybersecurity.
 
 ## what I do
 - custom Discord bots and automation tools
